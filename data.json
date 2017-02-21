@@ -1,6 +1,6 @@
 {
   "source": "remote",
-  "build": "3",
+  "build": "4",
   "schedule": [{
     "date": "2017-04-21",
     "groups": [{
@@ -405,7 +405,7 @@
         "topic": "Секция Реабилитация и физиотерапия",
         "tracks": ["РЕАБИЛИТАЦИЯ RSAVA физиотерапия Секция"],
         "speakerNames": ["Ronald Koh"],
-        "lectureId": 21
+        "lectureId": 22
       },
       {
         "name": "ЭКЗОТЫ - RSAVA",
@@ -486,7 +486,7 @@
         "topic": "Секция Реабилитация и физиотерапия",
         "tracks": ["РЕАБИЛИТАЦИЯ RSAVA физиотерапия Секция"],
         "speakerNames": ["Ronald Koh"],
-        "lectureId": 21
+        "lectureId": 22
       },
       {
         "name": "ЭКЗОТЫ - RSAVA",
