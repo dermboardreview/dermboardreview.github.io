@@ -1,5 +1,6 @@
 {
   "source": "remote",
+  "version": "1.0",
   "schedule": [{
     "date": "2017-04-21",
     "groups": [{
@@ -101,7 +102,7 @@
 		"lectureId": 8 
       },
       {
-			"name": "обед",
+			"name": "обед (lunch)",
 			"timeStart": "13:00",
 			"timeEnd": "14:00",
 			"location": "",
