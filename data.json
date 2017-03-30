@@ -1,6 +1,6 @@
 {
-  "source": "local",
-  "build": 5,
+  "source": "remote",
+  "build": 7,
   "schedule": [{
     "date": "2017-04-21",
     "groups": [{
