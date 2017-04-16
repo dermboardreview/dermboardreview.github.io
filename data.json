@@ -1,5 +1,5 @@
 {
-  "source": "local",
+  "source": "remote",
   "build": 20,
   "schedule": [{
     "date": "2017-04-21",
